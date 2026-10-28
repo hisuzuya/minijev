@@ -1,6 +1,7 @@
-"""評価セット 30 問を minijev と本物の Jev に解かせて比べる。
+"""評価セットを minijev と本物の Jev に解かせて比べる。
 
-使い方: .venv/bin/python eval.py [--only minijev|jev|opus]
+使い方: .venv/bin/python eval.py [--only minijev|jev|opus] [--evalset evalset_v2.json]
+--evalset の既定は evalset.json（結果は results/）。evalset_v2.json なら results/v2/ に保存する。
 TypeSafe の API キーは環境変数 TYPESAFE_API_KEY、なければ ~/.config/jev-browser/credentials.env から読む（表示しない）。
 claude CLI の場所は環境変数 CLAUDE_BIN で指定できる（既定は PATH 上の claude）。
 """
@@ -15,7 +16,6 @@ import urllib.request
 from pathlib import Path
 
 HERE = Path(__file__).parent
-ITEMS = json.loads((HERE / "evalset.json").read_text())
 CRED = Path.home() / ".config/jev-browser/credentials.env"
 SHUFFLES = 3  # 選択肢の並び替え回数（並び順への強さを見る）
 
@@ -85,10 +85,10 @@ def to_pred(ans):
     return ans["choice"], ans["confidence"]
 
 
-def run(engine, decide):
+def run(engine, decide, items):
     rows = []
-    decide(ITEMS[0]["state"], {"q": ITEMS[0]["q"]})  # ウォームアップ（初回のコンパイル・接続を除く）
-    for it in ITEMS:
+    decide(items[0]["state"], {"q": items[0]["q"]})  # ウォームアップ（初回のコンパイル・接続を除く）
+    for it in items:
         r = decide(it["state"], {"q": it["q"]})
         pred, conf = to_pred(r["answers"]["q"])
         row = {"id": it["id"], "category": it["category"], "answer": it["answer"], "pred": pred,
@@ -106,7 +106,7 @@ def run(engine, decide):
         print(f"[{engine}] {it['id']:9} {'○' if row['correct'] else '×'} {pred} ({conf:.2f}) {r['latency_ms']:.0f}ms", flush=True)
 
     # 同じ state に質問を 1 / 5 / 10 個投げたときの応答時間
-    base = ITEMS[0]
+    base = items[0]
     scaling = {}
     for n in (1, 5, 10):
         qs = {f"q{i}": base["q"] for i in range(n)}
@@ -135,9 +135,12 @@ def summarize(engine, res):
 
 
 if __name__ == "__main__":
-    only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
-    out = HERE / "results"
-    out.mkdir(exist_ok=True)
+    arg = lambda name, default: sys.argv[sys.argv.index(name) + 1] if name in sys.argv else default
+    only = arg("--only", None)
+    evalset = arg("--evalset", "evalset.json")
+    items = json.loads((HERE / evalset).read_text())
+    out = HERE / "results" / Path(evalset).stem.removeprefix("evalset").lstrip("_")  # evalset_v2 → results/v2
+    out.mkdir(parents=True, exist_ok=True)
     engines = {}
     if only in (None, "minijev"):
         from minijev import MODEL, decide as mini_decide
@@ -147,7 +150,7 @@ if __name__ == "__main__":
     if only in (None, "opus"):
         engines["opus-5.5-structured"] = opus_decide
     for name, fn in engines.items():
-        res = run(name, fn)
+        res = run(name, fn, items)
         (out / f"{name}.json").write_text(json.dumps(res, ensure_ascii=False, indent=2))
         summary = summarize(name, res)
         (out / f"{name}.md").write_text(summary + "\n")
