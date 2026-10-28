@@ -1,0 +1,411 @@
+{
+  "rows": [
+    {
+      "id": "basic-01",
+      "category": "基本",
+      "answer": "請求",
+      "pred": "請求",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1557,
+      "cost_usd": 0.006696799999999999,
+      "shuffle_preds": [
+        "請求",
+        "請求",
+        "請求"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-02",
+      "category": "基本",
+      "answer": "機能要望",
+      "pred": "機能要望",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1348,
+      "cost_usd": 0.021799,
+      "shuffle_preds": [
+        "機能要望",
+        "機能要望",
+        "機能要望"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-03",
+      "category": "基本",
+      "answer": "解約",
+      "pred": "解約",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 2124,
+      "cost_usd": 0.021743,
+      "shuffle_preds": [
+        "解約",
+        "解約",
+        "解約"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-04",
+      "category": "基本",
+      "answer": "はい",
+      "pred": "はい",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 2661,
+      "cost_usd": 0.026227999999999998
+    },
+    {
+      "id": "basic-05",
+      "category": "基本",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1293,
+      "cost_usd": 0.0215646
+    },
+    {
+      "id": "basic-06",
+      "category": "基本",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 1288,
+      "cost_usd": 0.026476,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-07",
+      "category": "基本",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 1387,
+      "cost_usd": 0.021607400000000002,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-08",
+      "category": "基本",
+      "answer": "はい",
+      "pred": "はい",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 2078,
+      "cost_usd": 0.021676599999999997
+    },
+    {
+      "id": "basic-09",
+      "category": "基本",
+      "answer": "営業・商談",
+      "pred": "営業・商談",
+      "confidence": 0.95,
+      "correct": true,
+      "latency_ms": 2120,
+      "cost_usd": 0.026600000000000002,
+      "shuffle_preds": [
+        "営業・商談",
+        "営業・商談",
+        "営業・商談"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "basic-10",
+      "category": "基本",
+      "answer": "開発",
+      "pred": "開発",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 1321,
+      "cost_usd": 0.0216464,
+      "shuffle_preds": [
+        "開発",
+        "開発",
+        "開発"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "neg-01",
+      "category": "否定・複合条件",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.95,
+      "correct": true,
+      "latency_ms": 1290,
+      "cost_usd": 0.0216926
+    },
+    {
+      "id": "neg-02",
+      "category": "否定・複合条件",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 2897,
+      "cost_usd": 0.0217486
+    },
+    {
+      "id": "neg-03",
+      "category": "否定・複合条件",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1486,
+      "cost_usd": 0.0216766
+    },
+    {
+      "id": "neg-04",
+      "category": "否定・複合条件",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1275,
+      "cost_usd": 0.021652599999999998
+    },
+    {
+      "id": "neg-05",
+      "category": "否定・複合条件",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1849,
+      "cost_usd": 0.0215966
+    },
+    {
+      "id": "num-01",
+      "category": "数値・カウント",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 2743,
+      "cost_usd": 0.021924600000000002
+    },
+    {
+      "id": "num-02",
+      "category": "数値・カウント",
+      "answer": "7人",
+      "pred": "7人",
+      "confidence": 0.99,
+      "correct": true,
+      "latency_ms": 2327,
+      "cost_usd": 0.026275999999999997,
+      "shuffle_preds": [
+        "7人",
+        "7人",
+        "7人"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "num-03",
+      "category": "数値・カウント",
+      "answer": "A社",
+      "pred": "A社",
+      "confidence": 0.95,
+      "correct": true,
+      "latency_ms": 1259,
+      "cost_usd": 0.0265,
+      "shuffle_preds": [
+        "A社",
+        "A社",
+        "A社"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "num-04",
+      "category": "数値・カウント",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 1203,
+      "cost_usd": 0.0215406
+    },
+    {
+      "id": "num-05",
+      "category": "数値・カウント",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.95,
+      "correct": true,
+      "latency_ms": 1305,
+      "cost_usd": 0.021556600000000002
+    },
+    {
+      "id": "date-01",
+      "category": "日付・期間",
+      "answer": "はい",
+      "pred": "はい",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 2269,
+      "cost_usd": 0.0214446
+    },
+    {
+      "id": "date-02",
+      "category": "日付・期間",
+      "answer": "期日超過",
+      "pred": "期日超過",
+      "confidence": 0.98,
+      "correct": true,
+      "latency_ms": 1211,
+      "cost_usd": 0.026276,
+      "shuffle_preds": [
+        "期日超過",
+        "期日超過",
+        "期日超過"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "date-03",
+      "category": "日付・期間",
+      "answer": "イベントB",
+      "pred": "イベントB",
+      "confidence": 0.99,
+      "correct": true,
+      "latency_ms": 2123,
+      "cost_usd": 0.026275999999999997,
+      "shuffle_preds": [
+        "イベントB",
+        "イベントB",
+        "イベントB"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "date-04",
+      "category": "日付・期間",
+      "answer": "いいえ",
+      "pred": "いいえ",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1584,
+      "cost_usd": 0.021996599999999998
+    },
+    {
+      "id": "date-05",
+      "category": "日付・期間",
+      "answer": "10月30日",
+      "pred": "10月30日",
+      "confidence": 0.95,
+      "correct": true,
+      "latency_ms": 2852,
+      "cost_usd": 0.028216,
+      "shuffle_preds": [
+        "10月30日",
+        "10月30日",
+        "10月30日"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "many-01",
+      "category": "多選択肢",
+      "answer": "情報システム部",
+      "pred": "情報システム部",
+      "confidence": 0.55,
+      "correct": true,
+      "latency_ms": 1435,
+      "cost_usd": 0.027872,
+      "shuffle_preds": [
+        "情報システム部",
+        "情報システム部",
+        "情報システム部"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "many-02",
+      "category": "多選択肢",
+      "answer": "人事部",
+      "pred": "人事部",
+      "confidence": 0.75,
+      "correct": true,
+      "latency_ms": 3395,
+      "cost_usd": 0.024577599999999998,
+      "shuffle_preds": [
+        "人事部",
+        "人事部",
+        "人事部"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "many-03",
+      "category": "多選択肢",
+      "answer": "広報部",
+      "pred": "広報部",
+      "confidence": 0.92,
+      "correct": true,
+      "latency_ms": 1911,
+      "cost_usd": 0.0221496,
+      "shuffle_preds": [
+        "広報部",
+        "広報部",
+        "広報部"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "many-04",
+      "category": "多選択肢",
+      "answer": "デザイン",
+      "pred": "デザイン",
+      "confidence": 0.97,
+      "correct": true,
+      "latency_ms": 1222,
+      "cost_usd": 0.027212,
+      "shuffle_preds": [
+        "デザイン",
+        "デザイン",
+        "デザイン"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "many-05",
+      "category": "多選択肢",
+      "answer": "調査・リサーチ",
+      "pred": "調査・リサーチ",
+      "confidence": 0.75,
+      "correct": true,
+      "latency_ms": 2567,
+      "cost_usd": 0.022233,
+      "shuffle_preds": [
+        "調査・リサーチ",
+        "調査・リサーチ",
+        "調査・リサーチ"
+      ],
+      "order_stable": true
+    }
+  ],
+  "scaling_ms": {
+    "1": 2133,
+    "5": 2902,
+    "10": 3379
+  }
+}
