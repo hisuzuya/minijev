@@ -6,6 +6,42 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 
 📄 スライド（PDF）: [slides/jev-lt-2026-10-29.pdf](slides/jev-lt-2026-10-29.pdf)　※アニメーションは止まった状態で書き出しています
 
+## スライド
+
+全31枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は PDF と同じ内容です。
+
+<img src="slides/images/slide-01.jpg" width="800" alt="スライド 1">
+<img src="slides/images/slide-02.jpg" width="800" alt="スライド 2">
+<img src="slides/images/slide-03.jpg" width="800" alt="スライド 3">
+<img src="slides/images/slide-04.jpg" width="800" alt="スライド 4">
+<img src="slides/images/slide-05.jpg" width="800" alt="スライド 5">
+<img src="slides/images/slide-06.jpg" width="800" alt="スライド 6">
+<img src="slides/images/slide-07.jpg" width="800" alt="スライド 7">
+<img src="slides/images/slide-08.jpg" width="800" alt="スライド 8">
+<img src="slides/images/slide-09.jpg" width="800" alt="スライド 9">
+<img src="slides/images/slide-10.jpg" width="800" alt="スライド 10">
+<img src="slides/images/slide-11.jpg" width="800" alt="スライド 11">
+<img src="slides/images/slide-12.jpg" width="800" alt="スライド 12">
+<img src="slides/images/slide-13.jpg" width="800" alt="スライド 13">
+<img src="slides/images/slide-14.jpg" width="800" alt="スライド 14">
+<img src="slides/images/slide-15.jpg" width="800" alt="スライド 15">
+<img src="slides/images/slide-16.jpg" width="800" alt="スライド 16">
+<img src="slides/images/slide-17.jpg" width="800" alt="スライド 17">
+<img src="slides/images/slide-18.jpg" width="800" alt="スライド 18">
+<img src="slides/images/slide-19.jpg" width="800" alt="スライド 19">
+<img src="slides/images/slide-20.jpg" width="800" alt="スライド 20">
+<img src="slides/images/slide-21.jpg" width="800" alt="スライド 21">
+<img src="slides/images/slide-22.jpg" width="800" alt="スライド 22">
+<img src="slides/images/slide-23.jpg" width="800" alt="スライド 23">
+<img src="slides/images/slide-24.jpg" width="800" alt="スライド 24">
+<img src="slides/images/slide-25.jpg" width="800" alt="スライド 25">
+<img src="slides/images/slide-26.jpg" width="800" alt="スライド 26">
+<img src="slides/images/slide-27.jpg" width="800" alt="スライド 27">
+<img src="slides/images/slide-28.jpg" width="800" alt="スライド 28">
+<img src="slides/images/slide-29.jpg" width="800" alt="スライド 29">
+<img src="slides/images/slide-30.jpg" width="800" alt="スライド 30">
+<img src="slides/images/slide-31.jpg" width="800" alt="スライド 31">
+
 > 本リポジトリは TypeSafe AI とは無関係の個人の実験です。
 
 ## しくみ
