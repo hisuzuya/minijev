@@ -1,6 +1,6 @@
 # minijev
 
-TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選択肢＋確率）」を、小さなローカル LLM の **次トークン確率だけ** で再現する約50行の実験コードです。あわせて、本物の Jev・Opus 5.5（JSON スキーマ固定）と同じ問題（30問・100問）で比べた評価スクリプトと結果を置いています。
+TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選択肢＋確率）」を、小さなローカル LLM の **次トークン確率だけ** で再現する約50行の実験コードです。あわせて、本物の Jev・Opus 5.5（JSON スキーマ固定）と同じ問題（公開データセット300問、自作の問題30問・100問）で比べた評価スクリプトと結果を置いています。
 
 2026-10-29「AI駆動開発【大阪支部 Jev特別会】」の LT「Jev の中身は50行で再現できる。でも本物との差はどこにあるのか」で使ったコードです。
 
@@ -9,7 +9,7 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 
 ## スライド
 
-全31枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は Speaker Deck と同じ内容です。
+全32枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は Speaker Deck と同じ内容です。
 
 <img src="slides/images/slide-01.jpg" width="800" alt="スライド 1">
 
@@ -46,6 +46,7 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 <img src="slides/images/slide-29.jpg" width="800" alt="スライド 29">
 <img src="slides/images/slide-30.jpg" width="800" alt="スライド 30">
 <img src="slides/images/slide-31.jpg" width="800" alt="スライド 31">
+<img src="slides/images/slide-32.jpg" width="800" alt="スライド 32">
 
 </details>
 
@@ -78,7 +79,12 @@ TYPESAFE_API_KEY=... .venv/bin/python eval.py --only jev   # 本物の Jev（有
 CLAUDE_BIN=claude .venv/bin/python eval.py --only opus     # Opus 5.5（claude CLI の --json-schema）
 .venv/bin/python metrics.py                     # 運用指標の集計
 
-# 100問版（結果は results/v2/）
+# 公開データセット300問（結果は results/public/）。元データは各配布元から data/ にダウンロードする
+.venv/bin/python build_public.py
+.venv/bin/python eval.py --evalset evalset_public.json --only minijev
+.venv/bin/python metrics.py --dir results/public --evalset evalset_public.json
+
+# 自作の問題100問版（結果は results/v2/）
 .venv/bin/python eval.py --evalset evalset_v2.json --only minijev
 .venv/bin/python metrics.py --dir results/v2 --evalset evalset_v2.json
 ```
@@ -90,12 +96,41 @@ CLAUDE_BIN=claude .venv/bin/python eval.py --only opus     # Opus 5.5（claude C
 | `minijev.py` | 本体（53行）。MLX ＋ Qwen3 で次トークン確率を読む |
 | `evalset.json` | 自作の評価セット30問（基本10・否定/複合条件5・数値5・日付5・多選択肢5）。正解は手で付けた |
 | `evalset_v2.json` | 100問版（30問＋新規70問、カテゴリの比率は同じ） |
+| `build_public.py` | 公開データセット6種から50問ずつ抜き出して `evalset_public.json` を作る（ライセンス上、問題文と元データは同梱しない） |
 | `eval.py` | 自作版・本物の Jev・Opus 5.5 に同じ問題を解かせる（`--evalset` で問題を切り替え） |
-| `metrics.py` | 「確信度0.7以上は自動処理、未満は人に回す」運用での内訳・Brier スコア・95%信頼区間・カテゴリ別の正答を集計 |
-| `results/` | 30問の実行結果（2026-10-28）。`SCALE.md` はモデルサイズ（1.7B〜14B）の比較 |
+| `metrics.py` | 「確信度0.7以上は自動処理、未満は人に回す」運用での内訳・確信度の帯ごとの正答率・95%信頼区間・カテゴリ別の正答を集計 |
+| `results/public/` | 公開データセット300問の実行結果（2026-10-29）。`SUMMARY.md` にまとめと出典 |
+| `results/` | 自作の問題30問の実行結果（2026-10-28）。`SCALE.md` はモデルサイズ（1.7B〜14B）の比較 |
 | `results/v2/` | 100問の実行結果（2026-10-28〜29）。`SUMMARY.md` にまとめ |
 
-## 結果：30問（2026-10-28、各1回）
+## 結果：公開データセット300問（2026-10-29、各1回）
+
+公開されている日本語データセット6種（WRIME・livedoor ニュース・JNLI・Jamp・JCommonsenseQA・JMMLU）から50問ずつ。当てずっぽうの期待正答数は 78 / 300。
+
+| | 正答率 | 「確信度0.99以上」と答えた問題の正答率 | 外した問題の確信度（中央値） | 10問まとめて |
+|---|---|---|---|---|
+| 自作 1.7B | 46% | 60%（164問） | 0.98 | 1.4 秒 |
+| 自作 4B | 59% | 78%（154問） | 0.86 | 3.1 秒 |
+| 自作 8B | 64% | 73%（174問） | 0.96 | 5.7 秒 |
+| 本物の Jev | 82% | 98%（102問） | 0.67 | 0.19 秒 |
+| Opus 5.5 ＋ JSON スキーマ | 89% | 100%（13問） | 0.60 | 6.0 秒 |
+
+- 正答率は、自作の問題で見えたほど近くない。自作は 8B でも 64% で、Jev の 82% と信頼区間も重ならない。
+- 確信度の当たり具合の差もはっきり残った。自作の誤答の3〜4割は確信度0.99以上で、Jev は4%。
+- Jev も外すことはある（確信度0.7以上での誤答が26件）。「Jev は外さない」ではなく「外すときは迷っていることが多い」。
+- 詳細と確信度の帯ごとの表は [results/public/SUMMARY.md](results/public/SUMMARY.md)。
+
+### 出典
+
+- **WRIME** — Kajiwara et al., NAACL 2021／Suzuki et al., LREC 2022（CC BY-NC-ND 4.0）https://github.com/ids-cv/wrime
+- **livedoor ニュースコーパス** — 株式会社ロンウイット配布（CC BY-ND 2.1 JP）https://www.rondhuit.com/download.html
+- **JGLUE（JNLI・JCommonsenseQA）** — Kurihara, Kawahara, Shibata, LREC 2022（CC BY-SA 4.0）https://github.com/yahoojapan/JGLUE
+- **Jamp** — Sugimoto, Onoe, Yanaka, ACL 2023 SRW（CC BY-SA 4.0）https://github.com/tomo-vv/temporalNLI_dataset
+- **JMMLU** — Yin et al., SICon 2024（CC BY-NC-ND 4.0）https://github.com/nlp-waseda/JMMLU 。元の MMLU は Hendrycks et al., ICLR 2021
+
+問題文と元データは再配布していません（`build_public.py` が各配布元から取得します）。
+
+## 結果：自作の問題30問（2026-10-28、各1回）
 
 当てずっぽうの期待正答数: 10.5 / 30
 
@@ -128,7 +163,8 @@ CLAUDE_BIN=claude .venv/bin/python eval.py --only opus     # Opus 5.5（claude C
 
 ### 注意
 
-- 自作の合成データ（30問・100問）・各1回の小さな実験です。傾向であって結論ではありません。
+- 公開データセット300問・自作の問題（30問・100問）とも各1回の実験です。傾向であって結論ではありません。
+- 公開データは各モデルの学習データに含まれている可能性があります。
 - 自作版は確信度の補正（温度スケーリングなど）を試していません。
 - 速度の条件はそろえていません（Jev は日本からの API 往復込み、自作は M4 ローカル、Opus は API 時間）。
 - Opus の確信度は自己申告、費用は claude CLI の定価見積もりです。

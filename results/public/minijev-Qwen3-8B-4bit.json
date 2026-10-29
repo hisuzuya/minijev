@@ -1,0 +1,4809 @@
+{
+  "rows": [
+    {
+      "id": "wrime-01",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999980330467224,
+      "correct": true,
+      "latency_ms": 460.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-02",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 473.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-03",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 637.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-04",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 0.9705714583396912,
+      "correct": true,
+      "latency_ms": 798.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-05",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ネガティブ",
+      "confidence": 0.99717777967453,
+      "correct": false,
+      "latency_ms": 763.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-06",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "どちらでもない",
+      "confidence": 0.9999988079071045,
+      "correct": true,
+      "latency_ms": 589.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-07",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 785.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-08",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 758.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-09",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "どちらでもない",
+      "confidence": 0.9980220198631287,
+      "correct": true,
+      "latency_ms": 946.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-10",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 1342.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-11",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 605.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-12",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 836.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-13",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 778.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-14",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ネガティブ",
+      "confidence": 0.999998927116394,
+      "correct": false,
+      "latency_ms": 997.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-15",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ネガティブ",
+      "confidence": 0.9978172779083252,
+      "correct": false,
+      "latency_ms": 749.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-16",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 572.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-17",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999778270721436,
+      "correct": false,
+      "latency_ms": 968.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-18",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": false,
+      "latency_ms": 767.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-19",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 583.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-20",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999810457229614,
+      "correct": true,
+      "latency_ms": 777.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-21",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9399133324623108,
+      "correct": false,
+      "latency_ms": 1178.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-22",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 1045.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-23",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": false,
+      "latency_ms": 582.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-24",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 998.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-25",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 808.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-26",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ポジティブ",
+      "confidence": 0.9997040033340454,
+      "correct": false,
+      "latency_ms": 776.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-27",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 778.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-28",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "どちらでもない",
+      "confidence": 0.8175744414329529,
+      "correct": true,
+      "latency_ms": 577.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-29",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 573.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-30",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 576.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-31",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "どちらでもない",
+      "confidence": 0.9999327659606934,
+      "correct": true,
+      "latency_ms": 774.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-32",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 577.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-33",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ポジティブ",
+      "confidence": 0.9803736209869385,
+      "correct": false,
+      "latency_ms": 609.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-34",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999151229858398,
+      "correct": false,
+      "latency_ms": 960.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-35",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 926.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-36",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ネガティブ",
+      "confidence": 0.9241418242454529,
+      "correct": false,
+      "latency_ms": 733.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-37",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 752.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-38",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 743.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-39",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 588.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-40",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "ネガティブ",
+      "confidence": 0.9990841746330261,
+      "correct": false,
+      "latency_ms": 761.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "wrime-41",
+      "category": "WRIME（感情）",
+      "answer": "どちらでもない",
+      "pred": "どちらでもない",
+      "confidence": 0.9999485611915588,
+      "correct": true,
+      "latency_ms": 783.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "どちらでもない",
+        "どちらでもない",
+        "どちらでもない"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-42",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 578.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-43",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 761.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-44",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 750.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-45",
+      "category": "WRIME（感情）",
+      "answer": "ネガティブ",
+      "pred": "ネガティブ",
+      "confidence": 0.9999990463256836,
+      "correct": true,
+      "latency_ms": 946.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ネガティブ",
+        "ネガティブ",
+        "ネガティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-46",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 579.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-47",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 926.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-48",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 554.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-49",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 0.9999998807907104,
+      "correct": true,
+      "latency_ms": 759.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "wrime-50",
+      "category": "WRIME（感情）",
+      "answer": "ポジティブ",
+      "pred": "ポジティブ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 950.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ポジティブ",
+        "ポジティブ",
+        "ポジティブ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-01",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": false,
+      "latency_ms": 2483.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-02",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "livedoor HOMME（男性向けライフスタイル）",
+      "confidence": 0.904615044593811,
+      "correct": false,
+      "latency_ms": 3047.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "livedoor HOMME（男性向けライフスタイル）",
+        "livedoor HOMME（男性向けライフスタイル）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-03",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9525741338729858,
+      "correct": false,
+      "latency_ms": 2837.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-04",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 0.9639471173286438,
+      "correct": true,
+      "latency_ms": 2712.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-05",
+      "category": "livedoor（記事分類）",
+      "answer": "エスマックス（スマートフォン）",
+      "pred": "家電チャンネル（家電・ガジェット）",
+      "confidence": 0.995212197303772,
+      "correct": false,
+      "latency_ms": 2883.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-06",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2471.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-07",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 3185.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-08",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2518.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-09",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2627.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-10",
+      "category": "livedoor（記事分類）",
+      "answer": "エスマックス（スマートフォン）",
+      "pred": "家電チャンネル（家電・ガジェット）",
+      "confidence": 0.9978172779083252,
+      "correct": false,
+      "latency_ms": 3043.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-11",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "エスマックス（スマートフォン）",
+      "confidence": 0.9999801516532898,
+      "correct": false,
+      "latency_ms": 2739.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-12",
+      "category": "livedoor（記事分類）",
+      "answer": "エスマックス（スマートフォン）",
+      "pred": "エスマックス（スマートフォン）",
+      "confidence": 0.4286124110221863,
+      "correct": true,
+      "latency_ms": 2558.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-13",
+      "category": "livedoor（記事分類）",
+      "answer": "Peachy（女性向けライフスタイル）",
+      "pred": "Peachy（女性向けライフスタイル）",
+      "confidence": 0.9999998211860657,
+      "correct": true,
+      "latency_ms": 2716.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Peachy（女性向けライフスタイル）",
+        "Peachy（女性向けライフスタイル）",
+        "Peachy（女性向けライフスタイル）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-14",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2330.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-15",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.99639892578125,
+      "correct": false,
+      "latency_ms": 2408.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エスマックス（スマートフォン）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-16",
+      "category": "livedoor（記事分類）",
+      "answer": "livedoor HOMME（男性向けライフスタイル）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9959295988082886,
+      "correct": false,
+      "latency_ms": 2751.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-17",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.999995231628418,
+      "correct": false,
+      "latency_ms": 2540.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-18",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 0.9999599456787109,
+      "correct": true,
+      "latency_ms": 2848.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-19",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "家電チャンネル（家電・ガジェット）",
+      "confidence": 0.9999974370002747,
+      "correct": true,
+      "latency_ms": 2777.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-20",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 3071.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-21",
+      "category": "livedoor（記事分類）",
+      "answer": "エスマックス（スマートフォン）",
+      "pred": "エスマックス（スマートフォン）",
+      "confidence": 0.9989250898361206,
+      "correct": true,
+      "latency_ms": 2897.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "家電チャンネル（家電・ガジェット）",
+        "エスマックス（スマートフォン）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-22",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "エスマックス（スマートフォン）",
+      "confidence": 0.9999968409538269,
+      "correct": false,
+      "latency_ms": 2639.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エスマックス（スマートフォン）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-23",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "エスマックス（スマートフォン）",
+      "confidence": 0.9999998211860657,
+      "correct": false,
+      "latency_ms": 2756.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）",
+        "エスマックス（スマートフォン）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-24",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 0.9737401604652405,
+      "correct": true,
+      "latency_ms": 2550.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-25",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9324532151222229,
+      "correct": false,
+      "latency_ms": 3643.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-26",
+      "category": "livedoor（記事分類）",
+      "answer": "Peachy（女性向けライフスタイル）",
+      "pred": "livedoor HOMME（男性向けライフスタイル）",
+      "confidence": 0.999977171421051,
+      "correct": false,
+      "latency_ms": 5463.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "livedoor HOMME（男性向けライフスタイル）",
+        "livedoor HOMME（男性向けライフスタイル）",
+        "livedoor HOMME（男性向けライフスタイル）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-27",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 3557.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-28",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9999785423278809,
+      "correct": false,
+      "latency_ms": 3019.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-29",
+      "category": "livedoor（記事分類）",
+      "answer": "独女通信（独身女性向けコラム）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9947794675827026,
+      "correct": false,
+      "latency_ms": 2940.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Peachy（女性向けライフスタイル）",
+        "トピックニュース（時事・話題）",
+        "Peachy（女性向けライフスタイル）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-30",
+      "category": "livedoor（記事分類）",
+      "answer": "独女通信（独身女性向けコラム）",
+      "pred": "Peachy（女性向けライフスタイル）",
+      "confidence": 0.946576714515686,
+      "correct": false,
+      "latency_ms": 2736.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "独女通信（独身女性向けコラム）",
+        "独女通信（独身女性向けコラム）",
+        "独女通信（独身女性向けコラム）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-31",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9999998211860657,
+      "correct": false,
+      "latency_ms": 3194.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-32",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 2978.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-33",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9999945759773254,
+      "correct": false,
+      "latency_ms": 2850.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-34",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 0.9996200203895569,
+      "correct": true,
+      "latency_ms": 2666.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-35",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": false,
+      "latency_ms": 4060.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-36",
+      "category": "livedoor（記事分類）",
+      "answer": "エスマックス（スマートフォン）",
+      "pred": "家電チャンネル（家電・ガジェット）",
+      "confidence": 0.989760160446167,
+      "correct": false,
+      "latency_ms": 3013.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "家電チャンネル（家電・ガジェット）",
+        "エスマックス（スマートフォン）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-37",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2526.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-38",
+      "category": "livedoor（記事分類）",
+      "answer": "独女通信（独身女性向けコラム）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9999875426292419,
+      "correct": false,
+      "latency_ms": 2321.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-39",
+      "category": "livedoor（記事分類）",
+      "answer": "livedoor HOMME（男性向けライフスタイル）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 0.9988304376602173,
+      "correct": false,
+      "latency_ms": 2951.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-40",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 1.0,
+      "correct": false,
+      "latency_ms": 2982.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-41",
+      "category": "livedoor（記事分類）",
+      "answer": "家電チャンネル（家電・ガジェット）",
+      "pred": "家電チャンネル（家電・ガジェット）",
+      "confidence": 0.99956876039505,
+      "correct": true,
+      "latency_ms": 2762.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）",
+        "家電チャンネル（家電・ガジェット）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-42",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.5618448853492737,
+      "correct": false,
+      "latency_ms": 2725.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-43",
+      "category": "livedoor（記事分類）",
+      "answer": "livedoor HOMME（男性向けライフスタイル）",
+      "pred": "ITライフハック（IT・PC活用）",
+      "confidence": 0.9999645948410034,
+      "correct": false,
+      "latency_ms": 2298.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）",
+        "ITライフハック（IT・PC活用）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-44",
+      "category": "livedoor（記事分類）",
+      "answer": "ITライフハック（IT・PC活用）",
+      "pred": "トピックニュース（時事・話題）",
+      "confidence": 0.9999999403953552,
+      "correct": false,
+      "latency_ms": 2565.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）",
+        "トピックニュース（時事・話題）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-45",
+      "category": "livedoor（記事分類）",
+      "answer": "Peachy（女性向けライフスタイル）",
+      "pred": "Peachy（女性向けライフスタイル）",
+      "confidence": 0.9999841451644897,
+      "correct": true,
+      "latency_ms": 2398.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Peachy（女性向けライフスタイル）",
+        "Peachy（女性向けライフスタイル）",
+        "Peachy（女性向けライフスタイル）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-46",
+      "category": "livedoor（記事分類）",
+      "answer": "MOVIE ENTER（映画）",
+      "pred": "MOVIE ENTER（映画）",
+      "confidence": 0.9999998807907104,
+      "correct": true,
+      "latency_ms": 2674.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-47",
+      "category": "livedoor（記事分類）",
+      "answer": "MOVIE ENTER（映画）",
+      "pred": "MOVIE ENTER（映画）",
+      "confidence": 0.6791786551475525,
+      "correct": true,
+      "latency_ms": 3676.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-48",
+      "category": "livedoor（記事分類）",
+      "answer": "トピックニュース（時事・話題）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 0.9998765587806702,
+      "correct": false,
+      "latency_ms": 2591.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トピックニュース（時事・話題）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "livedoor-49",
+      "category": "livedoor（記事分類）",
+      "answer": "Sports Watch（スポーツ）",
+      "pred": "Sports Watch（スポーツ）",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 2527.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）",
+        "Sports Watch（スポーツ）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "livedoor-50",
+      "category": "livedoor（記事分類）",
+      "answer": "MOVIE ENTER（映画）",
+      "pred": "MOVIE ENTER（映画）",
+      "confidence": 0.9999997615814209,
+      "correct": true,
+      "latency_ms": 3367.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）",
+        "MOVIE ENTER（映画）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-01",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.99040287733078,
+      "correct": false,
+      "latency_ms": 1636.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-02",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9980695247650146,
+      "correct": true,
+      "latency_ms": 2172.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-03",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9683578014373779,
+      "correct": true,
+      "latency_ms": 1060.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-04",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9209461808204651,
+      "correct": true,
+      "latency_ms": 1081.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-05",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9978829622268677,
+      "correct": true,
+      "latency_ms": 2184.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-06",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいとも誤りとも言えない（中立）",
+      "confidence": 0.61829674243927,
+      "correct": true,
+      "latency_ms": 1014.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-07",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9850316643714905,
+      "correct": true,
+      "latency_ms": 1048.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-08",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8141003847122192,
+      "correct": true,
+      "latency_ms": 3040.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-09",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.6220061182975769,
+      "correct": false,
+      "latency_ms": 1940.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-10",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9888833165168762,
+      "correct": true,
+      "latency_ms": 1283.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-11",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.985689103603363,
+      "correct": true,
+      "latency_ms": 2233.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-12",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9921848773956299,
+      "correct": true,
+      "latency_ms": 2248.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-13",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.7752581834793091,
+      "correct": true,
+      "latency_ms": 1411.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-14",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.999760627746582,
+      "correct": true,
+      "latency_ms": 1002.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-15",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.8656612634658813,
+      "correct": true,
+      "latency_ms": 1170.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-16",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.7652807831764221,
+      "correct": false,
+      "latency_ms": 976.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-17",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9998105764389038,
+      "correct": true,
+      "latency_ms": 1425.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-18",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8437947034835815,
+      "correct": false,
+      "latency_ms": 1460.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-19",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.8380326628684998,
+      "correct": true,
+      "latency_ms": 964.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-20",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.5773094892501831,
+      "correct": false,
+      "latency_ms": 999.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-21",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9993724226951599,
+      "correct": true,
+      "latency_ms": 953.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-22",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9926891326904297,
+      "correct": true,
+      "latency_ms": 1073.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-23",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9980222582817078,
+      "correct": true,
+      "latency_ms": 912.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-24",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.5773094892501831,
+      "correct": false,
+      "latency_ms": 907.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-25",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9884465932846069,
+      "correct": true,
+      "latency_ms": 1015.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-26",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9245139360427856,
+      "correct": false,
+      "latency_ms": 894.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-27",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9989669322967529,
+      "correct": true,
+      "latency_ms": 1049.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-28",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8340515494346619,
+      "correct": true,
+      "latency_ms": 1067.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-29",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8318486213684082,
+      "correct": true,
+      "latency_ms": 846.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-30",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.8609687089920044,
+      "correct": false,
+      "latency_ms": 1123.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-31",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9984269142150879,
+      "correct": true,
+      "latency_ms": 1808.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-32",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.7483394742012024,
+      "correct": true,
+      "latency_ms": 1085.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-33",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9653238654136658,
+      "correct": true,
+      "latency_ms": 1029.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-34",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9753991365432739,
+      "correct": false,
+      "latency_ms": 845.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-35",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.7641767859458923,
+      "correct": false,
+      "latency_ms": 1113.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-36",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.98841392993927,
+      "correct": true,
+      "latency_ms": 1022.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-37",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9880644679069519,
+      "correct": true,
+      "latency_ms": 1764.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-38",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.6627821326255798,
+      "correct": true,
+      "latency_ms": 1013.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-39",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.981926679611206,
+      "correct": true,
+      "latency_ms": 1053.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-40",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.890303909778595,
+      "correct": true,
+      "latency_ms": 1058.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-41",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.405500203371048,
+      "correct": true,
+      "latency_ms": 918.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-42",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9997735023498535,
+      "correct": true,
+      "latency_ms": 970.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-43",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9586583375930786,
+      "correct": false,
+      "latency_ms": 914.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-44",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999958276748657,
+      "correct": true,
+      "latency_ms": 1083.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-45",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.8805944919586182,
+      "correct": true,
+      "latency_ms": 1111.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-46",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.6282679438591003,
+      "correct": false,
+      "latency_ms": 920.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-47",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9586582779884338,
+      "correct": false,
+      "latency_ms": 912.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-48",
+      "category": "JNLI（含意関係）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.6390629410743713,
+      "correct": true,
+      "latency_ms": 902.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jnli-49",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9942317008972168,
+      "correct": true,
+      "latency_ms": 1040.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jnli-50",
+      "category": "JNLI（含意関係）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9381297826766968,
+      "correct": false,
+      "latency_ms": 953.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-01",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8298485279083252,
+      "correct": false,
+      "latency_ms": 1097.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-02",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.6202038526535034,
+      "correct": false,
+      "latency_ms": 922.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-03",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9998348355293274,
+      "correct": false,
+      "latency_ms": 1071.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-04",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999140501022339,
+      "correct": true,
+      "latency_ms": 891.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-05",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.6613576412200928,
+      "correct": false,
+      "latency_ms": 911.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-06",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9956540465354919,
+      "correct": false,
+      "latency_ms": 1547.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-07",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8570780158042908,
+      "correct": false,
+      "latency_ms": 999.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-08",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.997139036655426,
+      "correct": true,
+      "latency_ms": 1032.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-09",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9997989535331726,
+      "correct": true,
+      "latency_ms": 1353.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-10",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.956071674823761,
+      "correct": false,
+      "latency_ms": 1416.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-11",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9974866509437561,
+      "correct": true,
+      "latency_ms": 1136.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-12",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9937053322792053,
+      "correct": false,
+      "latency_ms": 1055.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-13",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8764846920967102,
+      "correct": true,
+      "latency_ms": 1288.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-14",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999802708625793,
+      "correct": false,
+      "latency_ms": 1140.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-15",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9994803071022034,
+      "correct": true,
+      "latency_ms": 999.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-16",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9998796582221985,
+      "correct": false,
+      "latency_ms": 1430.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-17",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9595434069633484,
+      "correct": true,
+      "latency_ms": 1000.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-18",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9994009733200073,
+      "correct": true,
+      "latency_ms": 1129.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-19",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8858526945114136,
+      "correct": true,
+      "latency_ms": 1430.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-20",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9836780428886414,
+      "correct": true,
+      "latency_ms": 1183.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-21",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999994039535522,
+      "correct": true,
+      "latency_ms": 1166.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-22",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9991652965545654,
+      "correct": false,
+      "latency_ms": 1801.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-23",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999192357063293,
+      "correct": false,
+      "latency_ms": 1099.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-24",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9416176676750183,
+      "correct": false,
+      "latency_ms": 1297.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-25",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9987158179283142,
+      "correct": false,
+      "latency_ms": 1060.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-26",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.7933518886566162,
+      "correct": false,
+      "latency_ms": 1315.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-27",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9998626112937927,
+      "correct": true,
+      "latency_ms": 1090.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-28",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999815225601196,
+      "correct": false,
+      "latency_ms": 1111.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-29",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9764267206192017,
+      "correct": false,
+      "latency_ms": 1089.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-30",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.875267505645752,
+      "correct": true,
+      "latency_ms": 1138.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-31",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9905375838279724,
+      "correct": false,
+      "latency_ms": 1106.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-32",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9836211800575256,
+      "correct": true,
+      "latency_ms": 1124.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-33",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9997502565383911,
+      "correct": false,
+      "latency_ms": 1103.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-34",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.999970018863678,
+      "correct": true,
+      "latency_ms": 3544.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-35",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9996293783187866,
+      "correct": true,
+      "latency_ms": 1081.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-36",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.7194387316703796,
+      "correct": true,
+      "latency_ms": 1276.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-37",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9520401358604431,
+      "correct": true,
+      "latency_ms": 1414.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-38",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.974348783493042,
+      "correct": true,
+      "latency_ms": 1093.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-39",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.999967634677887,
+      "correct": false,
+      "latency_ms": 1189.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-40",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.8956494331359863,
+      "correct": true,
+      "latency_ms": 1074.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-41",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9813809394836426,
+      "correct": false,
+      "latency_ms": 1260.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-42",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999772310256958,
+      "correct": true,
+      "latency_ms": 1190.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-43",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.5967136025428772,
+      "correct": true,
+      "latency_ms": 2979.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-44",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.999981701374054,
+      "correct": true,
+      "latency_ms": 1281.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-45",
+      "category": "Jamp（時間の推論）",
+      "answer": "誤りと言える（矛盾）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9999889731407166,
+      "correct": true,
+      "latency_ms": 982.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-46",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9442381858825684,
+      "correct": true,
+      "latency_ms": 979.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-47",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9885919094085693,
+      "correct": true,
+      "latency_ms": 949.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jamp-48",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.8130953311920166,
+      "correct": false,
+      "latency_ms": 1153.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-49",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいとも誤りとも言えない（中立）",
+      "pred": "誤りと言える（矛盾）",
+      "confidence": 0.9992997646331787,
+      "correct": false,
+      "latency_ms": 972.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいとも誤りとも言えない（中立）",
+        "誤りと言える（矛盾）",
+        "誤りと言える（矛盾）"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jamp-50",
+      "category": "Jamp（時間の推論）",
+      "answer": "正しいと言える（含意）",
+      "pred": "正しいと言える（含意）",
+      "confidence": 0.9992372989654541,
+      "correct": true,
+      "latency_ms": 993.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "正しいと言える（含意）",
+        "正しいと言える（含意）",
+        "正しいと言える（含意）"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-01",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "ドイツ連邦議会",
+      "pred": "ドイツ連邦議会",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 1087.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ドイツ連邦議会",
+        "ドイツ連邦議会",
+        "ドイツ連邦議会"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-02",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "パズル",
+      "pred": "パズル",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 1490.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "パズル",
+        "パズル",
+        "パズル"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-03",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "予言者",
+      "pred": "予言者",
+      "confidence": 0.9999803900718689,
+      "correct": true,
+      "latency_ms": 1349.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "予言者",
+        "予言者",
+        "予言者"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-04",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "トラベラー",
+      "pred": "トラベラー",
+      "confidence": 0.9999998807907104,
+      "correct": true,
+      "latency_ms": 1321.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トラベラー",
+        "トラベラー",
+        "トラベラー"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-05",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "手紙",
+      "pred": "手紙",
+      "confidence": 0.9999202489852905,
+      "correct": true,
+      "latency_ms": 1158.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "手紙",
+        "手紙",
+        "手紙"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-06",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "花",
+      "pred": "花",
+      "confidence": 0.9958865642547607,
+      "correct": true,
+      "latency_ms": 854.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "花",
+        "花",
+        "花"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-07",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "海老の尻尾",
+      "pred": "海老の尻尾",
+      "confidence": 0.5165112018585205,
+      "correct": true,
+      "latency_ms": 869.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "海老の尻尾",
+        "海老の尻尾",
+        "海老の尻尾"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-08",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "チェーン",
+      "pred": "チェーン",
+      "confidence": 0.9999141097068787,
+      "correct": true,
+      "latency_ms": 834.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "チェーン",
+        "チェーン",
+        "チェーン"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-09",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "事務員",
+      "pred": "事務員",
+      "confidence": 0.9787686467170715,
+      "correct": true,
+      "latency_ms": 916.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "事務員",
+        "事務員",
+        "事務員"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-10",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "計算する",
+      "pred": "計算する",
+      "confidence": 0.9999995827674866,
+      "correct": true,
+      "latency_ms": 860.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "計算する",
+        "計算する",
+        "計算する"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-11",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "トロリー",
+      "pred": "トロリー",
+      "confidence": 0.6775054931640625,
+      "correct": true,
+      "latency_ms": 847.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "トロリー",
+        "トロリー",
+        "トロリー"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-12",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "披露する",
+      "pred": "披露する",
+      "confidence": 0.9999935626983643,
+      "correct": true,
+      "latency_ms": 863.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "披露する",
+        "披露する",
+        "披露する"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-13",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "工具",
+      "pred": "工具",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 813.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "工具",
+        "工具",
+        "工具"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-14",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "幻影",
+      "pred": "幻影",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 840.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "幻影",
+        "幻影",
+        "幻影"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-15",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "水源",
+      "pred": "水源",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 816.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "水源",
+        "水源",
+        "水源"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-16",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "髪の毛",
+      "pred": "髪の毛",
+      "confidence": 0.9999982714653015,
+      "correct": true,
+      "latency_ms": 794.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "髪の毛",
+        "髪の毛",
+        "髪の毛"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-17",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "荒野",
+      "pred": "荒野",
+      "confidence": 0.9322527647018433,
+      "correct": true,
+      "latency_ms": 706.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "荒野",
+        "荒野",
+        "荒野"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-18",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "自分",
+      "pred": "ヒト",
+      "confidence": 0.5311961770057678,
+      "correct": false,
+      "latency_ms": 1267.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "自分",
+        "自分",
+        "自分"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jcqa-19",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "ステーキハウス",
+      "pred": "ステーキハウス",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 774.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ステーキハウス",
+        "ステーキハウス",
+        "ステーキハウス"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-20",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "思い描く",
+      "pred": "思い描く",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 1399.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "思い描く",
+        "思い描く",
+        "思い描く"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-21",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "クワガタムシ",
+      "pred": "クワガタムシ",
+      "confidence": 0.9983320832252502,
+      "correct": true,
+      "latency_ms": 806.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "クワガタムシ",
+        "クワガタムシ",
+        "クワガタムシ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-22",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "ドレッサー",
+      "pred": "ドレッサー",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 779.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ドレッサー",
+        "ドレッサー",
+        "ドレッサー"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-23",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "上回る",
+      "pred": "上回る",
+      "confidence": 0.9999532103538513,
+      "correct": true,
+      "latency_ms": 772.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "上回る",
+        "上回る",
+        "上回る"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-24",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "自然崇拝",
+      "pred": "自然崇拝",
+      "confidence": 0.9999963045120239,
+      "correct": true,
+      "latency_ms": 822.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "自然崇拝",
+        "自然崇拝",
+        "自然崇拝"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-25",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "無線",
+      "pred": "無線",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 770.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "無線",
+        "無線",
+        "無線"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-26",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "学校教育",
+      "pred": "学校教育",
+      "confidence": 0.9998441338539124,
+      "correct": true,
+      "latency_ms": 765.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "学校教育",
+        "学校教育",
+        "学校教育"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-27",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "アメリカ",
+      "pred": "アメリカ",
+      "confidence": 0.9986990690231323,
+      "correct": true,
+      "latency_ms": 793.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "アメリカ",
+        "アメリカ",
+        "アメリカ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-28",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "タン",
+      "pred": "タン",
+      "confidence": 0.49803492426872253,
+      "correct": true,
+      "latency_ms": 765.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "タン",
+        "ハラミ",
+        "ハラミ"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jcqa-29",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "音楽学校",
+      "pred": "音楽学校",
+      "confidence": 0.9999827146530151,
+      "correct": true,
+      "latency_ms": 782.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "音楽学校",
+        "音楽学校",
+        "音楽学校"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-30",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "同伴者",
+      "pred": "同伴者",
+      "confidence": 0.8891691565513611,
+      "correct": true,
+      "latency_ms": 767.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "同伴者",
+        "同伴者",
+        "同伴者"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-31",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "合格",
+      "pred": "合格",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 767.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "合格",
+        "合格",
+        "合格"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-32",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "燃料タンク",
+      "pred": "燃料タンク",
+      "confidence": 0.9993218779563904,
+      "correct": true,
+      "latency_ms": 777.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "燃料タンク",
+        "燃料タンク",
+        "燃料タンク"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-33",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "買い物",
+      "pred": "買い物",
+      "confidence": 0.9999943971633911,
+      "correct": true,
+      "latency_ms": 904.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "買い物",
+        "買い物",
+        "買い物"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-34",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "小屋",
+      "pred": "小屋",
+      "confidence": 0.9690847396850586,
+      "correct": true,
+      "latency_ms": 580.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "小屋",
+        "小屋",
+        "小屋"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-35",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "野外",
+      "pred": "屋外",
+      "confidence": 0.8353376984596252,
+      "correct": false,
+      "latency_ms": 775.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "屋外",
+        "屋外",
+        "野外"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jcqa-36",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "袋",
+      "pred": "袋",
+      "confidence": 0.9068238735198975,
+      "correct": true,
+      "latency_ms": 772.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "袋",
+        "袋",
+        "袋"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-37",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "パズル",
+      "pred": "パズル",
+      "confidence": 0.9999991655349731,
+      "correct": true,
+      "latency_ms": 797.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "パズル",
+        "パズル",
+        "パズル"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-38",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "タンス",
+      "pred": "タンス",
+      "confidence": 0.9996987581253052,
+      "correct": true,
+      "latency_ms": 807.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "タンス",
+        "タンス",
+        "タンス"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-39",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "死ぬ",
+      "pred": "死ぬ",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 675.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "死ぬ",
+        "死ぬ",
+        "死ぬ"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-40",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "港",
+      "pred": "港",
+      "confidence": 0.9462072849273682,
+      "correct": true,
+      "latency_ms": 754.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "港",
+        "港",
+        "港"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-41",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "エレベーター",
+      "pred": "エレベーター",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 784.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "エレベーター",
+        "エレベーター",
+        "エレベーター"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-42",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "書店",
+      "pred": "書店",
+      "confidence": 0.9999698400497437,
+      "correct": true,
+      "latency_ms": 584.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "書店",
+        "書店",
+        "書店"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-43",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "変わり者",
+      "pred": "変わり者",
+      "confidence": 0.9999967813491821,
+      "correct": true,
+      "latency_ms": 584.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "変わり者",
+        "変わり者",
+        "変わり者"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-44",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "瓶",
+      "pred": "袋",
+      "confidence": 0.5475202202796936,
+      "correct": false,
+      "latency_ms": 994.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "瓶",
+        "瓶",
+        "瓶"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jcqa-45",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "真者",
+      "pred": "真者",
+      "confidence": 0.9999980926513672,
+      "correct": true,
+      "latency_ms": 819.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "真者",
+        "真者",
+        "真者"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-46",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "福島県",
+      "pred": "福島県",
+      "confidence": 0.9999992847442627,
+      "correct": true,
+      "latency_ms": 772.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "福島県",
+        "福島県",
+        "福島県"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-47",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "髪の毛",
+      "pred": "髪の毛",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 771.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "髪の毛",
+        "髪の毛",
+        "髪の毛"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-48",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "物音",
+      "pred": "物音",
+      "confidence": 0.5311548709869385,
+      "correct": true,
+      "latency_ms": 764.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "物音",
+        "物音",
+        "物音"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-49",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "おにぎり",
+      "pred": "おにぎり",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 778.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "おにぎり",
+        "おにぎり",
+        "おにぎり"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jcqa-50",
+      "category": "JCommonsenseQA（常識）",
+      "answer": "赤レンガ",
+      "pred": "赤レンガ",
+      "confidence": 0.9679355621337891,
+      "correct": true,
+      "latency_ms": 759.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "赤レンガ",
+        "赤レンガ",
+        "ガラス"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-01",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "22.5",
+      "pred": "2",
+      "confidence": 0.6816015839576721,
+      "correct": false,
+      "latency_ms": 1744.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "22.5",
+        "63",
+        "3.6"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-02",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "190 + 220 - 30 + 4",
+      "pred": "190 + 220 - 30 + 4",
+      "confidence": 0.9372237324714661,
+      "correct": true,
+      "latency_ms": 1407.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "200 + 200 - 30 - 4",
+        "200 + 200 - 25 - 1",
+        "185 + 225 - 25 + 1vv"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-03",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "どれでもない",
+      "pred": "1",
+      "confidence": 0.9949765205383301,
+      "correct": false,
+      "latency_ms": 1497.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "1",
+        "1",
+        "1"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-04",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "7",
+      "pred": "7",
+      "confidence": 0.7945727109909058,
+      "correct": true,
+      "latency_ms": 2049.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "48",
+        "56",
+        "12"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-05",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "25メートル",
+      "pred": "25メートル",
+      "confidence": 0.9834177494049072,
+      "correct": true,
+      "latency_ms": 782.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "25メートル",
+        "25メートル",
+        "25メートル"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-06",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "13 qt",
+      "pred": "60 c",
+      "confidence": 0.8776192665100098,
+      "correct": false,
+      "latency_ms": 729.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "30 pt",
+        "13 qt",
+        "15 qt"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-07",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "2,000",
+      "pred": "2,000",
+      "confidence": 0.9540765285491943,
+      "correct": true,
+      "latency_ms": 911.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "2,500",
+        "3,000",
+        "2,400"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-08",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "6分の1",
+      "pred": "2分の３",
+      "confidence": 0.768989086151123,
+      "correct": false,
+      "latency_ms": 829.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "12分の2",
+        "6分の1",
+        "3分の2"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-09",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "$4.54",
+      "pred": "$4.46",
+      "confidence": 0.9657310247421265,
+      "correct": false,
+      "latency_ms": 1731.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "$5.36",
+        "$5.76",
+        "$4.54"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-10",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "18",
+      "pred": "6",
+      "confidence": 0.9316336512565613,
+      "correct": false,
+      "latency_ms": 701.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "180",
+        "18",
+        "6"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-11",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "t - 11 = 84; 95°F",
+      "pred": "84 - 11 = t; 73°F",
+      "confidence": 0.8281497955322266,
+      "correct": false,
+      "latency_ms": 1305.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "84 - t = 11; 73°F",
+        "t - 11 = 84; 95°F",
+        "t - 84 = 11; 95°F"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-12",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "77 km/h",
+      "pred": "82 km/h",
+      "confidence": 0.7324087023735046,
+      "correct": false,
+      "latency_ms": 1176.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "72 km/h",
+        "77 km/h",
+        "74 km/h"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-13",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "-7",
+      "pred": "-7",
+      "confidence": 0.9613122344017029,
+      "correct": true,
+      "latency_ms": 902.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "7",
+        "27",
+        "5"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-14",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "(40 × 12) + (6 × 12) = 480 + 72",
+      "pred": "(40 × 10) + (6 × 2) = 400 + 12",
+      "confidence": 0.7956467270851135,
+      "correct": false,
+      "latency_ms": 1817.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "(40 × 12) + (6 × 12) = 480 + 72",
+        "(40 × 12) + (60 × 12) = 480 + 720",
+        "(40 × 6) + (10 × 2) = 240 + 20"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-15",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "97.5",
+      "pred": "39.5",
+      "confidence": 0.718267560005188,
+      "correct": false,
+      "latency_ms": 1797.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "118.5",
+        "202.25",
+        "97.5"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-16",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "32",
+      "pred": "32",
+      "confidence": 0.6590446829795837,
+      "correct": true,
+      "latency_ms": 908.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "3,200",
+        "320",
+        "3.2"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-17",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "345",
+      "pred": "232",
+      "confidence": 0.848493218421936,
+      "correct": false,
+      "latency_ms": 927.6,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "345",
+        "460",
+        "236"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-18",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "(6 × 5) × 10^2",
+      "pred": "30 × 10^1",
+      "confidence": 0.9290497899055481,
+      "correct": false,
+      "latency_ms": 1514.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "(6 × 5) × 10^2",
+        "(6 × 5) × 10^3",
+        "30 × 10^3"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-19",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "125",
+      "pred": "120",
+      "confidence": 0.8909409642219543,
+      "correct": false,
+      "latency_ms": 1903.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "144",
+        "145",
+        "125"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-20",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "45.6",
+      "pred": "46.4",
+      "confidence": 0.9270298480987549,
+      "correct": false,
+      "latency_ms": 882.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "4.56",
+        "45.6",
+        "456"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-21",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "7",
+      "pred": "7",
+      "confidence": 0.916377067565918,
+      "correct": true,
+      "latency_ms": 892.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "30",
+        "33",
+        "16"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-22",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "14",
+      "pred": "8",
+      "confidence": 0.5329816937446594,
+      "correct": false,
+      "latency_ms": 649.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "4",
+        "14",
+        "10"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-23",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "10",
+      "pred": "10",
+      "confidence": 0.9999895095825195,
+      "correct": true,
+      "latency_ms": 854.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "10",
+        "10",
+        "10"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-24",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "0.21の繰り返し",
+      "pred": "0.021の繰り返し",
+      "confidence": 0.9193806648254395,
+      "correct": false,
+      "latency_ms": 2676.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "0.22の繰り返し",
+        "0.2121",
+        "0.21の繰り返し"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-25",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "6",
+      "pred": "6",
+      "confidence": 0.9404350519180298,
+      "correct": true,
+      "latency_ms": 894.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "8",
+        "5",
+        "11"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-26",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "重要なマーケティング分析",
+      "pred": "持続可能なマーケティング",
+      "confidence": 0.8516550660133362,
+      "correct": false,
+      "latency_ms": 1234.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "持続可能なマーケティング",
+        "持続可能なマーケティング",
+        "関係性マーケティング"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-27",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "収穫目的",
+      "pred": "収穫目的",
+      "confidence": 0.9999999403953552,
+      "correct": true,
+      "latency_ms": 3636.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "収穫目的",
+        "収穫目的",
+        "収穫目的"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-28",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "テスト市場",
+      "pred": "テスト市場",
+      "confidence": 0.9999995231628418,
+      "correct": true,
+      "latency_ms": 1979.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "テスト市場",
+        "テスト市場",
+        "テスト市場"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-29",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "340,000ドル",
+      "pred": "260,000ドル",
+      "confidence": 0.600029468536377,
+      "correct": false,
+      "latency_ms": 1813.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "320,000ドル",
+        "340,000ドル",
+        "280,000ドル"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-30",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "不動産を評価額と著しく異なる価格で売却する。",
+      "pred": "不動産を評価額と著しく異なる価格で売却する。",
+      "confidence": 0.7714058756828308,
+      "correct": true,
+      "latency_ms": 1703.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "主要役員に有利な価格でストックオプションを付与する。",
+        "不動産を評価額と著しく異なる価格で売却する。",
+        "主要役員に有利な価格でストックオプションを付与する。"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-31",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "結果主義、費用便益分析",
+      "pred": "合理化、費用便益分析",
+      "confidence": 0.9999063611030579,
+      "correct": false,
+      "latency_ms": 1055.8,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "合理化、費用便益分析",
+        "合理化、費用便益分析",
+        "結果主義、費用便益分析"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-32",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "パフォーマンスの価値。",
+      "pred": "需要と供給の変動。",
+      "confidence": 0.4599806070327759,
+      "correct": false,
+      "latency_ms": 4295.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "サービスの提供方法。",
+        "需要と供給の変動。",
+        "製品の種類に関連する接伴性のレベル。"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-33",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "AとBのみ。",
+      "pred": "AとBとC。",
+      "confidence": 0.9356830716133118,
+      "correct": false,
+      "latency_ms": 1927.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "AとBとC。",
+        "AとCのみ。",
+        "AとBのみ。"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-34",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "オピニオンリーダー",
+      "pred": "オピニオンリーダー",
+      "confidence": 0.825900137424469,
+      "correct": true,
+      "latency_ms": 1669.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "オピニオンリーダー",
+        "パブリック・リレーションズ",
+        "パブリック・リレーションズ"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-35",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "経験的消費",
+      "pred": "経験的消費",
+      "confidence": 0.9971466660499573,
+      "correct": true,
+      "latency_ms": 851.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "経験的消費",
+        "経験的消費",
+        "経験的消費"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-36",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "社会契約",
+      "pred": "社会契約",
+      "confidence": 1.0,
+      "correct": true,
+      "latency_ms": 1043.9,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "社会契約",
+        "社会契約",
+        "社会契約"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-37",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "44,000ドル",
+      "pred": "10,000ドル",
+      "confidence": 0.4767191708087921,
+      "correct": false,
+      "latency_ms": 1868.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "44,000ドル",
+        "59,000ドル",
+        "25,000ドル"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-38",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "総合マーケティングシステム",
+      "pred": "バリューライン",
+      "confidence": 0.9995566606521606,
+      "correct": false,
+      "latency_ms": 2221.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "総合マーケティングシステム",
+        "総合マーケティングシステム",
+        "総合マーケティングシステム"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-39",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "対等でない2つのパートナーが、買収後に1つになる。",
+      "pred": "対等でない2つのパートナーが、買収後に1つになる。",
+      "confidence": 0.9999896287918091,
+      "correct": true,
+      "latency_ms": 1033.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "対等でない2つのパートナーが、買収後に1つになる。",
+        "対等でない2つのパートナーが、買収後に1つになる。",
+        "対等でない2つのパートナーが、買収後に1つになる。"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-40",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "欺瞞的価格設定",
+      "pred": "欺瞞的価格設定",
+      "confidence": 0.9978002309799194,
+      "correct": true,
+      "latency_ms": 839.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "欺瞞的価格設定",
+        "欺瞞的価格設定",
+        "欺瞞的価格設定"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-41",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "ステークホルダー、リスク、ステークホルダー管理、説明責任、透明性",
+      "pred": "ステークホルダー、リスク、ステークホルダー管理、説明責任、透明性",
+      "confidence": 0.8923913240432739,
+      "correct": true,
+      "latency_ms": 1582.0,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "ステークホルダー、リスク、ステークホルダー管理、説明責任、透明性",
+        "ステークホルダー、説明責任、透明性、リスク、ステークホルダー管理",
+        "ステークホルダー、説明責任、透明性、リスク、ステークホルダー管理"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-42",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "492,500ドル",
+      "pred": "450,000ドル",
+      "confidence": 0.643856406211853,
+      "correct": false,
+      "latency_ms": 1681.4,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "492,500ドル",
+        "450,000ドル",
+        "442,500ドル"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-43",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "商業パフォーマンス",
+      "pred": "腐敗防止",
+      "confidence": 0.7770971059799194,
+      "correct": false,
+      "latency_ms": 1572.7,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "商業パフォーマンス",
+        "商業パフォーマンス",
+        "人権"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-44",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "マックス・ウェーバー",
+      "pred": "マックス・ウェーバー",
+      "confidence": 0.9999864101409912,
+      "correct": true,
+      "latency_ms": 851.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "マックス・ウェーバー",
+        "マックス・ウェーバー",
+        "マックス・ウェーバー"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-45",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "定型的で非複雑的",
+      "pred": "定型的で非複雑的",
+      "confidence": 0.9999157190322876,
+      "correct": true,
+      "latency_ms": 829.3,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "定型的で非複雑的",
+        "定型的で非複雑的",
+        "複雑でリスクが高い"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-46",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "140,000 ドル",
+      "pred": "100,000ドル",
+      "confidence": 0.515783429145813,
+      "correct": false,
+      "latency_ms": 1480.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "140,000 ドル",
+        "40,000ドル",
+        "140,000 ドル"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-47",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "政府、アプローチの道、伝達の幅、内容",
+      "pred": "従業員、伝達の幅、内容、アプローチの道",
+      "confidence": 0.5209373831748962,
+      "correct": false,
+      "latency_ms": 1477.5,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "政府、アプローチの道、伝達の幅、内容",
+        "政府、アプローチの道、伝達の幅、内容",
+        "政府、アプローチの道、伝達の幅、内容"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-48",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "価格保証制度",
+      "pred": "価格保証制度",
+      "confidence": 0.9776077270507812,
+      "correct": true,
+      "latency_ms": 1265.1,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "価格保証制度",
+        "価格保証制度",
+        "価格保証制度"
+      ],
+      "order_stable": true
+    },
+    {
+      "id": "jmmlu-49",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "100ドル",
+      "pred": "200ドル",
+      "confidence": 0.6630584001541138,
+      "correct": false,
+      "latency_ms": 1792.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "100ドル",
+        "200ドル",
+        "900ドル"
+      ],
+      "order_stable": false
+    },
+    {
+      "id": "jmmlu-50",
+      "category": "JMMLU（数学・ビジネス）",
+      "answer": "収益の増加",
+      "pred": "コストの減少",
+      "confidence": 0.9706354737281799,
+      "correct": false,
+      "latency_ms": 1014.2,
+      "cost_usd": null,
+      "shuffle_preds": [
+        "収益の増加",
+        "収益の増加",
+        "収益の増加"
+      ],
+      "order_stable": false
+    }
+  ],
+  "scaling_ms": {
+    "1": 632.1,
+    "5": 3165.2,
+    "10": 5682.2
+  }
+}

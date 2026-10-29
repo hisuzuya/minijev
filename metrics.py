@@ -7,7 +7,7 @@
 - 閾値 0.7 で運用したとき: 人に回す数 / 自動で通して正解 / 自動で通して誤り（事故）
 - Brier スコア: (確信度 - 正解なら1・誤りなら0)^2 の平均。0 が理想、小さいほど確信度が当たっている
 - 正答率と事故率の 95% 信頼区間（問題を復元抽出するブートストラップ）
-- カテゴリ別の正答率と、外した問題の確信度
+- カテゴリ別の正答率と、外した問題の確信度、確信度の帯ごとの正答率
 """
 import json
 import random
@@ -81,4 +81,16 @@ for name, res in results.items():
     shuf = [r for r in rows if "order_stable" in r]
     med = f"{statistics.median(wrong):.2f}" if wrong else "-"
     print(f"| {name} | {len(wrong)} | {med} | {sum(c >= 0.99 for c in wrong)} | {sum(c < THRESHOLD for c in wrong)} | "
-          f"{sum(r['order_stable'] for r in shuf)}/{len(shuf)} |")
+          f"{sum(r['order_stable'] for r in shuf)}/{len(shuf) if shuf else '-'} |")
+
+BANDS = ((0, 0.7), (0.7, 0.9), (0.9, 0.99), (0.99, 1.01))
+print("\n### 確信度の帯ごとの正答率（正解数/問題数）\n")
+print("| エンジン | " + " | ".join(f"{lo:.2f}〜{min(hi, 1):.2f}" for lo, hi in BANDS) + " |")
+print("|---" * (len(BANDS) + 1) + "|")
+for name, res in results.items():
+    rows = res["rows"]
+    cells = []
+    for lo, hi in BANDS:
+        b = [r for r in rows if lo <= r["confidence"] < hi]
+        cells.append(f"{sum(r['correct'] for r in b)}/{len(b)}（{accuracy(b):.0%}）" if b else "-")
+    print(f"| {name} | " + " | ".join(cells) + " |")

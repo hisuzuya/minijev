@@ -2,3 +2,7 @@
 __pycache__/
 .omc/
 *.log
+
+# 公開データセット（ライセンス上、再配布しない）
+data/
+evalset_public.json
