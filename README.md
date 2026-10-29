@@ -6,11 +6,10 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 
 🎤 スライド（Speaker Deck）: https://speakerdeck.com/hisuzuya/jev-no-nakami-ha-50-kudari-de-saigen-dekiru-demo-honmono-tono-sa-ha-doko-ni-aru-no-ka
 
-📄 スライド（PDF）: [slides/jev-lt-2026-10-29.pdf](slides/jev-lt-2026-10-29.pdf)　※アニメーションは止まった状態で書き出しています
 
 ## スライド
 
-全31枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は PDF と同じ内容です。
+全31枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は Speaker Deck と同じ内容です。
 
 <img src="slides/images/slide-01.jpg" width="800" alt="スライド 1">
 
