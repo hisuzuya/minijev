@@ -11,6 +11,10 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 全31枚（28枚目までが本編、29枚目からが付録）。下に並べた画像は PDF と同じ内容です。
 
 <img src="slides/images/slide-01.jpg" width="800" alt="スライド 1">
+
+<details>
+<summary>2枚目以降を表示（全31枚）</summary>
+
 <img src="slides/images/slide-02.jpg" width="800" alt="スライド 2">
 <img src="slides/images/slide-03.jpg" width="800" alt="スライド 3">
 <img src="slides/images/slide-04.jpg" width="800" alt="スライド 4">
@@ -41,6 +45,8 @@ TypeSafe AI の判断モデル **Jev** のような「型付きの判断（選�
 <img src="slides/images/slide-29.jpg" width="800" alt="スライド 29">
 <img src="slides/images/slide-30.jpg" width="800" alt="スライド 30">
 <img src="slides/images/slide-31.jpg" width="800" alt="スライド 31">
+
+</details>
 
 > 本リポジトリは TypeSafe AI とは無関係の個人の実験です。
 
